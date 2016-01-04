@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html class="no-js" ng-app="magnificentDemo">
+  <head>
+    <meta charset="utf-8">
+    <title>Pixeleur - Angular Magnificent</title>
+    <link rel="icon" type="images/png" href="images/favicon.png">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.8/angular-animate.min.js"></script>
+    <script src="https://code.angularjs.org/1.4.8/angular-route.min.js"></script>
+  </head>
+  <body ng-controller="mainController">
+    <magnificent magnificent="magnificent"></magnificent>
+    <div ng-view="" class="main-container"></div>
+    
+    <!-- Load scripts -->
+    <script src="scripts/app.js"></script>
+    <script src="scripts/controllers/mainController.js"></script>
+    <script src="scripts/controllers/homepagecontroller.js"></script>
+    <script src="bower_components/angular-magnificent/js/angular-magnificent.js"></script>
+</body>
+</html>
