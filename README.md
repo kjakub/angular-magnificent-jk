@@ -26,7 +26,7 @@ Inspired on the [Supersized jQuery plugin](http://buildinternet.com/project/supe
 - [License](#license)
 
 ## Demo
-<a href="//embed.plnkr.co/b5MJDcDbxg3MEjfr4EPq" target="_blank">Plunker</a>
+<a href="https://plnkr.co/edit/b5MJDcDbxg3MEjfr4EPq?p=preview" target="_blank">Plunker</a>
 
 ## Settings
 - **slides** 			Array of objects, one object for each slide
