@@ -1,4 +1,4 @@
-# angular-magnificent
+# angular-magnificent forked from https://github.com/pixeleur/angular-magnificent
 
 Angular directive - A fullscreen background slider
 
@@ -9,14 +9,11 @@ Inspired on the [Supersized jQuery plugin](http://buildinternet.com/project/supe
 * Pure AngularJS, no jQuery dependency!
 * Image preload
 * Images are resized to fill up the entire view port
-* Images will keep aspect ratio
 * Images will be always centered
 * Smooth fade-in / Fade-out effect
-* Optional mousemove event
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Settings](#settings)
 - [Installation](#installation)
 - [How To Use](#how-to-use)
