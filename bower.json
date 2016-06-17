@@ -1,5 +1,5 @@
 {
-  "name": "angular-magnificent",
+  "name": "angular-magnificent-jk",
   "description": "Angular directive - A fullscreen background slider",
   "main": [
     "./angular-magnificent.min.css",
