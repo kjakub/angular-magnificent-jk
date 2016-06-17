@@ -1,13 +1,4 @@
-html{
-  height: 100vh;
-  overflow: hidden;
-  
-}
-body {
-  min-height: 100vh;
-  overflow: hidden;
 
-}
 
 .magnificent-slider {
     display: block;
@@ -26,6 +17,15 @@ body {
 }
 
 .magnificent-slide{
+    width: 100%;
+    height: 100%;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
     position: absolute;
     left: 0;
     top: 0;

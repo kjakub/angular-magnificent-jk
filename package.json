@@ -1,15 +1,15 @@
 {
   "name": "angular-magnificent",
-  "description": "Angular directive - A fullscreen background slider",
+  "description": "Angular directive - slider - forked from pixeleur/angular-magnificent",
   "version": "0.1.0",
-  "homepage": "https://github.com/pixeleur/angular-magnificent",
+  "homepage": "https://github.com/kjakub/angular-magnificent",
   "author": {
     "name": "Manuel Ramirez - Pixeleur",
     "email": "pixeleurmx@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:pixeleur/angular-magnificent.git"
+    "url": "git@github.com:kjakub/angular-magnificent.git"
   },
   "bugs": {
     "url": "https://github.com/pixeleur/angular-magnificent/issues"
